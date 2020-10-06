@@ -1,10 +1,10 @@
 ## Ajackus Assignment
 
 Run these 2 commands 
-'''
+```
 composer install
 php artisan migrate
-'''
+```
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
